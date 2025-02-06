@@ -1,1 +1,2 @@
 # Movie-Rating-and-Review-System
+This project develops a web-based movie database application that allows users to browse popular movies, search for specific titles, and view detailed information.  The application utilizes the Movie Database API (TMDb) to fetch movie data. The front-end is built with HTML, CSS, and JavaScript, providing a dynamic and interactive user experience.  Key features include a clean user interface, responsive design, search functionality, and display of movie details such as title, rating, and plot overview.
